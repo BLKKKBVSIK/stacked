@@ -1,3 +1,7 @@
+## 0.2.2
+
+- Updated flutter_hooks to 0.18.2+1
+
 ## 0.2.1+1
 
 - Upgraded the dependency on `provider` to 6.0.0
